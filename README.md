@@ -1,5 +1,5 @@
 # NOTE-BOOK HOSTED: https://gleeful-mooncake-d81c15.netlify.app/note.html
 
 
-#HOSTED ON GIT:https://sourik100403.github.io/NOTE-BOOK/
+#HOSTED ON :https://enotelocal-b76c9.web.app
 
